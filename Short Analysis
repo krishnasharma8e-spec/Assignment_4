@@ -1,0 +1,8 @@
+After checking the csv file, the data is clean.
+The KNN model was 71% accurate.
+The new model is now 76% accurate.
+The confusion matrix shows that -------->
+87 Non-diabetic patients correctly predicted as non-diabetic.
+12 Non-diabetic patients incorrectly predicted as diabetic. 
+25 Diabetic patients incorrectly predicted as non-diabetic. 
+30 Diabetic patients correctly predicted as diabetic. 
